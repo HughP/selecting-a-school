@@ -13,3 +13,7 @@ I've looked at:
 * iSchool at Berkeley http://www.ischool.berkeley.edu/
 * http://www.simmons.edu/academics/graduate-programs/library-and-information-science--information-science-and-technology-ms
 * http://www.simmons.edu/academics/graduate-programs/library-and-information-science-cultural-heritage-ms
+ 
+## Some confrences
+* http://ischools.org/the-iconference/
+* ILCDC
