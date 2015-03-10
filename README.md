@@ -10,6 +10,7 @@ I've looked at:
 * Ph.D. in Linguistics at UH M.
 * LIS at at UH M.
 * LIS at UBC: http://slais.ubc.ca/programs/degree-specializations/hci-sub-specialization/
+ * http://slais.ubc.ca/programs/degrees/mas/
 * iSchool at Berkeley http://www.ischool.berkeley.edu/
 * http://www.simmons.edu/academics/graduate-programs/library-and-information-science--information-science-and-technology-ms
 * http://www.simmons.edu/academics/graduate-programs/library-and-information-science-cultural-heritage-ms
